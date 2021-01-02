@@ -1,0 +1,24 @@
+{
+  "name": "app01-intro",
+  "version": "1.0.0",
+  "description": "Aplicació de Escritorio MultiPlataforma en electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FernandoA5/Aprendiendo-Electron.git"
+  },
+  "keywords": [
+    "Electron",
+    "Escritorio",
+    "NodeJs"
+  ],
+  "author": "Fernando Alcalá",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FernandoA5/Aprendiendo-Electron/issues"
+  },
+  "homepage": "https://github.com/FernandoA5/Aprendiendo-Electron#readme"
+}
